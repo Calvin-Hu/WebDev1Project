@@ -1,0 +1,17 @@
+body {
+ font-family: Papyrus, fantasy;
+}
+.container {
+    
+}
+.foot {
+    height:25%;
+    width:100%;
+    color:white;
+    background-color:black;
+}
+.container-fluid {
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
